@@ -1,0 +1,8 @@
+﻿  21Game.cpp
+C:\Github\21\21Game\21Game\Deck.h(116,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Github\21\21Game\21Game\Deck.h(117,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Deck.cpp
+  Extra_functions.cpp
+  Generating Code...
+C:\Github\21\21Game\21Game\21Game.cpp(52): warning C4715: 'Start_game': not all control paths return a value
+  21Game.vcxproj -> C:\Github\21\21Game\x64\Debug\21Game.exe
